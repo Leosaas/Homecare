@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lDmAyqVFaH7Edbw9C9WZ2Y7hcv/eY+1SgRI21Rxi92E=",
+  "Source": "EnterpriseService.Api",
+  "BasePath": "_content/EnterpriseService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
